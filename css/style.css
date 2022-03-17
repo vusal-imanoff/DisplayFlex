@@ -302,3 +302,7 @@ footer h2,p{
 #Third,#Second h2{
     font-size: 36px;
 }
+
+.footer_right a{
+    color: #CCCCCC;
+}
